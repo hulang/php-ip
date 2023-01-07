@@ -14,12 +14,11 @@
   "license": "MIT",
   "authors": [
     {
-      "name": "马秉尧"
+      "name": "hulang"
     },
     {
-      "name": "itbdw",
-      "email": "itbudaoweng@gmail.com",
-      "role": "Developer"
+      "name": "hulang",
+      "email": "hulangfy@163.com"
     }
   ],
   "require": {
